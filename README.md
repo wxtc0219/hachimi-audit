@@ -1,7 +1,7 @@
 # Hachimi 客户端安全审计
 
 对某 Minecraft 客户端模组的一次安全审计与隐私补丁。
-即 `hachimi-b4-windows-privacy.jar`
+即 `hachimi-b4-crk.jar`
 由gpt6.1 sol ultra破解编译
 
 ## 结论
@@ -12,7 +12,7 @@
 
 ## 使用
 
-将 `hachimi-b4-windows-privacy.jar` 放入 Minecraft Fabric 实例的 mods 目录即可。java启动项添加-Xverify:none
+将 `hachimi-b4-crk.jar` 放入 Minecraft Fabric 实例的 mods 目录即可。java启动项添加-Xverify:none
 否则可能崩溃
 
 ## 风险与免责
