@@ -10,10 +10,10 @@
 
 ## 使用
 
-将 `hachimi-b4-windows-privacy-test-UNTESTED.jar` 放入 Minecraft Fabric 实例的 mods 目录即可。
+将 `hachimi-b4-windows-privacy.jar` 放入 Minecraft Fabric 实例的 mods 目录即可。
 
 ## 风险与免责
 
-- 补丁尚未在真实 Windows 上验证（UNTESTED），可能影响游戏启动。
+- 所有原上报逻辑已删除，不会读取并发送 QQ 数据。
 - 不构成"绝对安全"的保证：加壳代码中可能仍有未识别的行为。
 - 本仓库仅供安全研究与学习，请勿用于商业用途。
