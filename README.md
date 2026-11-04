@@ -4,6 +4,10 @@
 即 `hachimi-b4-crk.jar`
 由gpt6.1 sol ultra破解编译
 
+如果你想要使用，完全没有后门，反编译源码构建的版本可以看
+https://github.com/wxtc0219/OpenHachimi/releases/tag/1.21.1
+但是功能可能有一些用不了的
+
 ## 结论
 
 - 模组自带一个 Windows 原生库，经过加壳保护。
